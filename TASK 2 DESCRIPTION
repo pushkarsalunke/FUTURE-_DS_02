@@ -1,0 +1,9 @@
+This video showcases an interactive Customer Churn Analysis Dashboard built using data visualization tools (likely Power BI). The dashboard focuses on telecom customer data and provides key insights into customer behavior and churn patterns.
+At the top, summary metrics such as total customers, churn rate, and overall distribution are displayed. The dashboard dynamically updates as filters are applied (e.g., churn = Yes/No), allowing users to explore specific segments.
+The visualizations include:
+Donut charts showing customer distribution by gender, contract type, internet service, and payment method
+Bar and line charts analyzing churn rate across different categories like contract type, internet service, and tenure
+Comparative insights that highlight which customer groups are more likely to churn
+The video demonstrates how applying filters changes the data in real time, helping users identify trends such as:
+Higher churn in certain contract types (e.g., month-to-month)
+Variations in churn based on tenure and service usage
